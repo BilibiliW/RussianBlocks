@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622654696 source:e:\code\newrussia\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+
